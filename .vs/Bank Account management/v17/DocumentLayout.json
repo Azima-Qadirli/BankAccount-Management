@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A36964-105B-4365-B3F9-254A3803A56B}|Bank Account management\\Bank Account management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\bank account management\\bank account management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A36964-105B-4365-B3F9-254A3803A56B}|Bank Account management\\Bank Account management.csproj|solutionrelative:bank account management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A36964-105B-4365-B3F9-254A3803A56B}|Bank Account management\\Bank Account management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\bank account management\\bank account management\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A36964-105B-4365-B3F9-254A3803A56B}|Bank Account management\\Bank Account management.csproj|solutionrelative:bank account management\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A36964-105B-4365-B3F9-254A3803A56B}|Bank Account management\\Bank Account management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\bank account management\\bank account management\\accountactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A36964-105B-4365-B3F9-254A3803A56B}|Bank Account management\\Bank Account management.csproj|solutionrelative:bank account management\\accountactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountActivity.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\Bank Account management\\AccountActivity.cs",
+              "RelativeDocumentMoniker": "Bank Account management\\AccountActivity.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\Bank Account management\\AccountActivity.cs",
+              "RelativeToolTip": "Bank Account management\\AccountActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:50:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\Bank Account management\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank Account management\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\Bank Account management\\BankAccount.cs",
+              "RelativeToolTip": "Bank Account management\\BankAccount.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:22:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\Bank Account management\\Program.cs",
+              "RelativeDocumentMoniker": "Bank Account management\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Bank Account management\\Bank Account management\\Program.cs",
+              "RelativeToolTip": "Bank Account management\\Program.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwJoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:18:20.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

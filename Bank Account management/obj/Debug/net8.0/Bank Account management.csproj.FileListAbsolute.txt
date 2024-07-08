@@ -1,0 +1,14 @@
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\bin\Debug\net8.0\Bank Account management.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\bin\Debug\net8.0\Bank Account management.deps.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\bin\Debug\net8.0\Bank Account management.runtimeconfig.json
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\bin\Debug\net8.0\Bank Account management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\bin\Debug\net8.0\Bank Account management.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.AssemblyInfo.cs
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\refint\Bank Account management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\Bank Account management.genruntimeconfig.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\Bank Account management\Bank Account management\obj\Debug\net8.0\ref\Bank Account management.dll
